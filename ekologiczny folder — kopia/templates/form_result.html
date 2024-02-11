@@ -1,0 +1,22 @@
+<!-- form_result.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container result-container">
+        <h1 class="result-heading">Form Submission Result</h1>
+        
+        <div class="result-details">
+            <p>Name: {{ name }}</p>
+            <p>Email: {{ email }}</p>
+            <p>Address: {{ address }}</p>
+            <p>Date: {{ date }}</p>
+        </div>
+    </div>
