@@ -1,6 +1,1 @@
-Name: Jacek Placek, Email: jacek.placek2137@gmial.com, Address: Jan Pawe³ 2, Date: 2137-09-06
-Name: Alek Frydrysiak, Email: a.frydrysiak2011@gmail.com, Address: Prusa 9, Date: 4212-04-12
-Name: Anna Frydrysiak, Email: ania.frydrysiak@gmail.com, Address: Prusa, 9, Date: 0325-04-21
-Name: Anna Frydrysiak, Email: ania.frydrysiak@gmail.com, Address: Prusa, 9, Date: 0325-04-21
-Name: Alek Frydrysiak, Email: a.frydrysiak2011@gmail.com, Address: Prusa 9, Date: 2024-02-04
-Name: Alek Frydrysiak, Email: a.frydrysiak2011@gmail.com, Address: Prusa 9, Date: 2025-03-11
+
